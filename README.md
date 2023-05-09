@@ -65,7 +65,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Trast00/Spendwise.git
+  git clone https://github.com/Trast00/Rails-Api.git
 ```
 
 ### Install
@@ -106,7 +106,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Trast00/Rail-React-Project/issues).
+Feel free to check the [issues page](https://github.com/Trast00/Rails-Api/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
