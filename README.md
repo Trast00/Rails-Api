@@ -22,6 +22,8 @@
 # Rail-React-Hello 
 This is a project build for learning purpose. The goal is to use react redux on the front end and rails on the backend. The project is two simple hello world app separated and communicated via api end point.
 
+[linked front-end project](https://github.com/Trast00/React-api-rail)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>

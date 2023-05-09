@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # Create message endpoint
 module Api
   module V1
